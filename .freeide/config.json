@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "SC1": {
+      "build": {
+        "actionName": "Build SC1"
+      }
+    },
+    "Frontend": {
+      "build": {
+        "actionName": "Build Frontend"
+      },
+      "deploy": {
+        "actionName": "Deploy Frontend"
+      }
+    }
+  }
+}
